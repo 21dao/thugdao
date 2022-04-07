@@ -1,0 +1,100 @@
+[
+  {
+    "name": "pinkskull",
+    "twitter": "https://twitter.com/pinkskullqueen",
+    "bio": "I am an interdisciplinary artist specializing in portraiture, with a focus on the dark and the macabre.",
+    "tags": ["Painting", "Surreal", "Dark art"],
+    "exchange": "https://exchange.art/explore?filters=%7B%22brands%22:%5B%22pinkskullqueen%22%5D%7D",
+    "holaplex": "https://pinkskull.holaplex.com",
+    "formfunction": null,
+    "images": [
+      "https://images.exchange.art/tr:q-100,w-1000,dpr-1/ipfs/bafybeifgdy5nshjfwnh3wklfjatikqiau5p7uwkmrpvbpozignqouppb4u",
+      "https://images.exchange.art/tr:q-100,w-1000,dpr-1/p4NZo4JDCsWtu2hFYlC1Zlbu3tZK6B_SiuBSCUcuI5A?ext=png",
+      "https://images.exchange.art/tr:q-100,w-1000,dpr-1/ipfs/QmP2PXYukHnYnqXDVeJBcsQ6DzNXWsfPJuEHNgHSo4xpLN"
+    ]
+  },
+  {
+    "name": "cruelsophist",
+    "twitter": "https://twitter.com/cruelsophist",
+    "bio": "I'm Ceyhun, I'm 21 years old and I live in Turkey. I have been dealing with art since childhood and I use the NFT market to show my art to people.",
+    "tags": ["Drawing", "Illustration", "Painting"],
+    "exchange": "https://exchange.art/explore?filters=%7B%22brands%22:%5B%22cruelsophist%22%5D%7D",
+    "holaplex": null,
+    "formfunction": null,
+    "images": [
+      "https://exchangeartimages.global.ssl.fastly.net/iWO419vWw9KRu-LVS3-en6MaOZx6lXv2Ry6xbmawdpQ?ext=png?ext=png&quality=100&width=1000&dpr=1",
+      "https://exchangeartimages.global.ssl.fastly.net/awSf0WTBMLWaEzIzQ1ojczA1KnuuK--ZaxTHtrIGhRk?ext=jpg?ext=jpg&quality=100&width=1000&dpr=1",
+      "https://exchangeartimages.global.ssl.fastly.net/kGBEyA0EamyM5DrKSTp0Vz23CPkIcNw_hRWuGYMxUgs?ext=jpg?ext=jpg&quality=100&width=1000&dpr=1"
+    ]
+  },
+  {
+    "name": "Basket",
+    "twitter": "https://twitter.com/basketNFT",
+    "bio": "Argentinean based multidisciplinary artist and Solana OG. His work is full of pop culture references and nice colours",
+    "tags": ["Illustration", null, null],
+    "exchange": "https://exchange.art/search?from=20\u0026filters=%7B%22tokenStatus%22:%5B%22curated%22,%22certified%22,%22known%22%5D,%22brands%22:%5B%22Basket%22%5D%7D",
+    "holaplex": null,
+    "formfunction": null,
+    "images": [
+      "https://images.exchange.art/tr:q-100,w-350,dpr-2,bl-0/36jjoVALcVYLAs6Aj6kGfgyPUqjYnRxiyff2nnM9OE0?ext=JPG\u0026ik-sdk-version=angular-1.0.2",
+      "https://images.exchange.art/tr:q-100,w-350,dpr-2,bl-0/ipfs/bafybeicfyulneaejxdanjtpjmqfxjdv65bjl53vmnxpmlwruac6hhoe4me?ik-sdk-version=angular-1.0.2",
+      "https://images.exchange.art/tr:q-100,w-350,dpr-2,bl-0/7plqR_0bR-11pmbyXgBy7zOKVPbI_CmhEHn8JmZJMqk?ext=JPG\u0026ik-sdk-version=angular-1.0.2"
+    ]
+  },
+  {
+    "name": "Bean E. Seagull",
+    "twitter": "https://twitter.com/BeanESeagull",
+    "bio": "Artist",
+    "tags": ["drawing", "painting", "photography"],
+    "exchange": null,
+    "holaplex": null,
+    "formfunction": null,
+    "images": [
+      "https://pbs.twimg.com/media/FGG2nv-XsAY6glh?format=jpg&name=900x900",
+      "https://pbs.twimg.com/media/FOydxrxX0AA2NFe?format=jpg&name=large",
+      "https://pbs.twimg.com/media/FOaOI6hXMAcxf16?format=jpg&name=small"
+    ]
+  },
+  {
+    "name": "LIGHTS",
+    "twitter": "https://twitter.com/LIGHTS_NFT",
+    "bio": "I’m a filmmaking designer obsessed with capturing light. I make blockchain inspired photography of the California sun.",
+    "tags": ["hotography", "Digital art", null],
+    "exchange": "https://exchange.art/collections/Flights/nfts",
+    "holaplex": "https://lights.holaplex.com",
+    "formfunction": null,
+    "images": [
+      "https://exchangeartimages.global.ssl.fastly.net/L2Idw7pUZ4GKV66fP2lUZCwYymcrkFXYGFw8hJWPm2U?ext=jpg?ext=jpg&quality=100&width=1000&dpr=1",
+      "https://exchangeartimages.global.ssl.fastly.net/H8vSs1ZGvl8Ut21olx5WPLZP8q-joAP8fLgmJQcW9m4?ext=jpg?ext=jpg&quality=100&width=1000&dpr=1",
+      "https://exchangeartimages.global.ssl.fastly.net/31UHVl7qDLglryNK44lnddaeytkaqxbY6IuaW1_YhmA?ext=jpg?ext=jpg&quality=100&width=1000&dpr=1"
+    ]
+  },
+  {
+    "name": "Cavus",
+    "twitter": "https://twitter.com/cavpatrol",
+    "bio": "Cavus | Digital Artist from Sydney | URS Artist. I produce emotive, hand-drawn pieces, abstract in nature. I run my work through various forms of spontaneous digital manipulation. I enjoy animating my work live. All my art is a creative release, I hope it is as cathartic for the viewer as it is for me.",
+    "tags": ["Digital Art", "Street Art", "Glitch Art"],
+    "exchange": "https://exchange.art/collections/Bombing%20Solana",
+    "holaplex": "https://cavus.holaplex.com",
+    "formfunction": null,
+    "images": [
+      "https://exchangeartimages.global.ssl.fastly.net/ipfs/bafybeiemc4msnk26noqkkqvyntbp4eop3fekncfosafdd4u5jzew67ifei?ext=png&quality=100&width=1000&dpr=1",
+      "https://exchangeartimages.global.ssl.fastly.net/ipfs/bafybeif23zuigxohma5z2krgpaixucrv2adkq223swnigr4exfirvf6xfq?ext=png&quality=100&width=1000&dpr=1",
+      "https://exchangeartimages.global.ssl.fastly.net/ipfs/bafybeiatpvcpqxbtzgyqxvgke2fcq4eddhof4kfg3p5cld5eyhl5pwg2wm?ext=png&quality=100&width=1000&dpr=1"
+    ]
+  },
+  {
+    "name": "Bois",
+    "twitter": "https://twitter.com/boistahu",
+    "bio": "Indonesian Visual Artist based on Jakarta, my works inspired by Sentimental Exploration 🌈",
+    "tags": ["colorful", "illustration", "fantasy"],
+    "exchange": null,
+    "holaplex": null,
+    "formfunction": "https://formfunction.xyz/@BOIS",
+    "images": [
+      "https://formfunction.imgix.net/nft-images/O9CqWZb-mLq-FeNM5_GR_.jpg?q=100&auto=format&ixlib=react-9.3.0&w=800",
+      "https://formfunction.imgix.net/nft-images/A9Dnmw8aHW5LNEOBE01l4.jpg?q=100&auto=format&ixlib=react-9.3.0&w=800",
+      "https://formfunction.imgix.net/nft-images/Qk7n6HOnw2mxWuGfeYCDq.jpg?q=100&auto=format&ixlib=react-9.3.0&w=800"
+    ]
+  }
+]
